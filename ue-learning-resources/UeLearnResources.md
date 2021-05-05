@@ -4,7 +4,9 @@
 
 [黑马c++基础教程](https://www.bilibili.com/video/BV1et411b73Z?from=search&seid=2201595414010625513)
 
-[侯捷-C++面向对象高级编程(上)-基于对象＆面向对象](https://www.bilibili.com/video/BV1Lb4y1R7fs?spm_id_from=333.788.b_636f6d6d656e74.4)
+[侯捷-C++面向对象高级编程(上)](https://www.bilibili.com/video/BV1Lb4y1R7fs?spm_id_from=333.788.b_636f6d6d656e74.4)
+
+[侯捷-C++面向对象高级编程(下)](https://www.bilibili.com/video/BV1ZX4y157Bu/?spm_id_from=333.788.recommend_more_video.0)
 
 [Cherno艺电(EA)澳大利亚的游戏引擎工程师-C++教程](https://www.bilibili.com/video/BV1VJ411M7WR)
 
